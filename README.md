@@ -13,19 +13,25 @@ Created by:
 
 ## Introduction
 
-Climate change is effecting all of us in all types of different forms. Bangladesh is no execption to this as it faces severe cyclones, floods, and earthquake which damage the infrastructure in the country. The focus of this study lies on the identification of critical infrastructure in Bangladesh in order to prevent crucial infrastructure loss leading to high decrease in national mobility. 
+Climate change is effecting us all in types of different forms. Bangladesh is no exception to this as it faces severe cyclones, floods, and earthquake which damage the infrastructure in the country. The focus of this study lies on the identification of critical infrastructure in Bangladesh in order to prevent crucial infrastructure loss leading to high decrease in national mobility. 
 
 Data used in this study was obtained from the Bangladesh National Archives and sorted between several files by academia from the TU Delft. These files are known to contain several errors and inconsistencies. This creates the urge for the first part of this project, which is the cleaning of the datafiles. The objective is to identify the errors based on literature and providing solutions to them in the form of algorithms. 
 Within this objective, the study focusses on two subobjectives: the errors in the series of geographical points that represent roads and errors in the mapping of bridges. 
 
 ## Data files 
 
-For the project a selection of datafiles was used:
-*BMMS_overview
+For the project a selection of datafiles were used:
+### BMMS_overview
 
 
-## How to Use
 
+### _roads
+
+
+
+## How to use
+
+The 
 
 Include whatever you think is necessary for someone to understand your work. The README file is usually the first file someone will see and open. It doesn't need to explain what might be obvious, but it should point out the most important things someone looking at your work should know. What is your work for? What are the most important files? Who (if anyone) funded the project?
 
