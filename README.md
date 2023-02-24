@@ -18,6 +18,11 @@ Climate change is effecting us all in types of different forms. Bangladesh is no
 Data used in this study was obtained from the Bangladesh National Archives and sorted between several files by academia from the TU Delft. These files are known to contain several errors and inconsistencies. This creates the urge for the first part of this project, which is the cleaning of the datafiles. The objective is to identify the errors based on literature and providing solutions to them in the form of algorithms. 
 Within this objective, the study focusses on two subobjectives: the errors in the series of geographical points that represent roads and errors in the mapping of bridges. 
 
+## Content information
+- Readme file 
+- A report in the form of a pdf file (in report folder)
+- Data files in several formats (in data folder)
+
 ## Types of data files and how to use it 
 The project is provided with several folders. 
 All of the folder names suggest what can be found in the folders. For example, the data is provided in the folder named "data".
@@ -32,7 +37,8 @@ A csv file containing the road name of every road and all the data points repres
 #### Roads_InfoAboutEachLRP
 A csv file with detailed information about the LRP points of roads. 
 
-
+## Questions
+If you have any questions or remarks you can contact Kas Hogeboom, k.j.hogeboom@student.tudelft.nl
 
 
 
