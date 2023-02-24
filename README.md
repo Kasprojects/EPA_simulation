@@ -1,5 +1,5 @@
-# Lab assignment 1 
-## EPA 1352, 24-02-2023
+# Lab assignment 1 - Cleaning of the data 
+## Advanced simulation EPA 1352, 24-02-2023
 
 Created by:
 |Group Number|3|
@@ -29,7 +29,7 @@ All of the folder names suggest what can be found in the folders. For example, t
 For the project a selection of datafiles were used:
 
 #### BMMS_overview
-A generated Excel file used by the simulation to draw the bridges. It contains specific information concerning the bridge such as the name, type and coordinates of the bridge. For this study the name of the road which the brigde was coupled with is used to compare with the _roads file. 
+A generated Excel file used by the simulation to draw the bridges. It contains specific information concerning the bridge such as the name, type and coordinates of the bridge. For this study particularly, the name of the road which the brigde was coupled with and the coordinates of the bridge were used to compare with the _roads file. 
 
 #### _roads
 A csv file containing the road name of every road and all the data points represented in the positions of the LRP points. For every LRP point the coordinates are given in the form of latitude and longitude values. 
