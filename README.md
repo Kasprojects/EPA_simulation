@@ -2,7 +2,7 @@
 ## EPA 1352, 24-02-2023
 
 Created by:
-|Group Number|X|
+|Group Number|3|
 |:---:|:-------:|
 |Finnegan Blom | 4693094|
 |Britt Reddingius| 4650727|
@@ -18,27 +18,21 @@ Climate change is effecting us all in types of different forms. Bangladesh is no
 Data used in this study was obtained from the Bangladesh National Archives and sorted between several files by academia from the TU Delft. These files are known to contain several errors and inconsistencies. This creates the urge for the first part of this project, which is the cleaning of the datafiles. The objective is to identify the errors based on literature and providing solutions to them in the form of algorithms. 
 Within this objective, the study focusses on two subobjectives: the errors in the series of geographical points that represent roads and errors in the mapping of bridges. 
 
-## Data files 
-
+## Types of data files and how to use it 
+The project is provided with several folders. 
+All of the folder names suggest what can be found in the folders. For example, the data is provided in the folder named "data".
 For the project a selection of datafiles were used:
-#### BMMS_overview
 
-A generated Excel file used by the simulation to draw the bridges. It contains specific information concerning the bridge such as the name, type and coordinates of the bridge. 
+#### BMMS_overview
+A generated Excel file used by the simulation to draw the bridges. It contains specific information concerning the bridge such as the name, type and coordinates of the bridge. For this study the name of the road which the brigde was coupled with is used to compare with the _roads file. 
 
 #### _roads
 A csv file containing the road name of every road and all the data points represented in the positions of the LRP points. For every LRP point the coordinates are given in the form of latitude and longitude values. 
 
 ### Roads_InfoAboutEachLRP
-
-a comma-separated text-file with processed
-information from the RMMS dataset. It contains information about one LRP per line.
+A csv file with detailed information about the LRP points of roads. 
 
 
 
-## How to use
 
-The project is provided with several folders. 
 
-Include whatever you think is necessary for someone to understand your work. The README file is usually the first file someone will see and open. It doesn't need to explain what might be obvious, but it should point out the most important things someone looking at your work should know. What is your work for? What are the most important files? Who (if anyone) funded the project?
-
-There are a number of folders provided to structure your work. Use the ones that fit your needs. No all folders have to be filled. 
