@@ -1,4 +1,4 @@
-# Lab assignemnt 1 
+# Lab assignment 1 
 ## EPA 1352, 24-02-2023
 
 Created by:
@@ -26,7 +26,8 @@ For the project a selection of datafiles were used:
 A generated Excel file used by the simulation to draw the bridges. It contains specific information concerning the bridge such as the name, type and coordinates of the bridge. 
 
 #### _roads
-A csv file with
+A csv file containing the road name of every road and all the data points represented in the positions of the LRP points. For every LRP point the coordinates are provided in the form of latitude and longitude values. 
+
 
 ## How to use
 
