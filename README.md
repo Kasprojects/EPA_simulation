@@ -26,12 +26,18 @@ For the project a selection of datafiles were used:
 A generated Excel file used by the simulation to draw the bridges. It contains specific information concerning the bridge such as the name, type and coordinates of the bridge. 
 
 #### _roads
-A csv file containing the road name of every road and all the data points represented in the positions of the LRP points. For every LRP point the coordinates are provided in the form of latitude and longitude values. 
+A csv file containing the road name of every road and all the data points represented in the positions of the LRP points. For every LRP point the coordinates are given in the form of latitude and longitude values. 
+
+### Roads_InfoAboutEachLRP
+
+a comma-separated text-file with processed
+information from the RMMS dataset. It contains information about one LRP per line.
+
 
 
 ## How to use
 
-The 
+The project is provided with several folders. 
 
 Include whatever you think is necessary for someone to understand your work. The README file is usually the first file someone will see and open. It doesn't need to explain what might be obvious, but it should point out the most important things someone looking at your work should know. What is your work for? What are the most important files? Who (if anyone) funded the project?
 
