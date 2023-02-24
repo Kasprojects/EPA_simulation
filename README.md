@@ -13,8 +13,15 @@ Created by:
 
 ## Introduction
 
-In the folder (EPA1352-Gxx-Ax), you place your lab submission.
+Climate change is effecting all of us in all types of different forms. Bangladesh is no execption to this as it faces severe cyclones, floods, and earthquake which damage the infrastructure in the country. The focus of this study lies on the identification of critical infrastructure in Bangladesh in order to prevent crucial infrastructure loss leading to high decrease in national mobility. 
 
+Data used in this study was obtained from the Bangladesh National Archives and sorted between several files by academia from the TU Delft. These files are known to contain several errors and inconsistencies. This creates the urge for the first part of this project, which is the cleaning of the datafiles. The objective is to identify the errors based on literature and providing solutions to them in the form of algorithms. 
+Within this objective, the study focusses on two subobjectives: the errors in the series of geographical points that represent roads and errors in the mapping of bridges. 
+
+## Data files 
+
+For the project a selection of datafiles was used:
+*BMMS_overview
 
 
 ## How to Use
@@ -23,8 +30,3 @@ In the folder (EPA1352-Gxx-Ax), you place your lab submission.
 Include whatever you think is necessary for someone to understand your work. The README file is usually the first file someone will see and open. It doesn't need to explain what might be obvious, but it should point out the most important things someone looking at your work should know. What is your work for? What are the most important files? Who (if anyone) funded the project?
 
 There are a number of folders provided to structure your work. Use the ones that fit your needs. No all folders have to be filled. 
-
-### Format
-
-Most README files for data or software projects are now written in Markdown format, like this document. There are some different flavours, but they are based on the same logic – being easy to write. 
-Use Markdown format for your README file as well. 
