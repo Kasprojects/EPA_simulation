@@ -1,64 +1,30 @@
-# EPA_simulation
+# Lab 1 
+## EPA 1352 
 
-# Project Title
+Created by:
+|Group Number|X|
+|:---:|:-------:|
+|Finnegan Blom | 4693094|
+|Britt Reddingius| 4650727|
+|Suze van Santen| 4660102|
+|Friso Pladet| 5842646|
+|Kas Hogeboom| 4799866|
 
-Simple overview of use/purpose.
 
-## Description
+## Introduction
 
-An in-depth paragraph about your project and overview of use.
+In the folder (EPA1352-Gxx-Ax), you place your lab submission.
 
-## Getting Started
 
-### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+## How to Use
 
-### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+Include whatever you think is necessary for someone to understand your work. The README file is usually the first file someone will see and open. It doesn't need to explain what might be obvious, but it should point out the most important things someone looking at your work should know. What is your work for? What are the most important files? Who (if anyone) funded the project?
 
-### Executing program
+There are a number of folders provided to structure your work. Use the ones that fit your needs. No all folders have to be filled. 
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+### Format
 
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
-## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+Most README files for data or software projects are now written in Markdown format, like this document. There are some different flavours, but they are based on the same logic – being easy to write. 
+Use Markdown format for your README file as well. 
